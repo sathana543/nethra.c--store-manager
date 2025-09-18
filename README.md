@@ -1,0 +1,1 @@
+# nethra.c--store-manager
